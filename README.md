@@ -1,6 +1,6 @@
-some chinese segmented text.  
-if you have some good text to share with people on the world , please contact me googcheng@gmail.com
-
+some chinese segmented text:  
+http://www.sighan.org/bakeoff2005/data/icwb2-data.rar  
+if you have some good text to share with people on the world , please contact me: googcheng@gmail.com
 
 --------------
-for my leave.
+celebrate my graduation and NLP.

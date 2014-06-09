@@ -6,6 +6,5 @@ with open('./pku_training.utf8') as f,open('./pku_training.txt','w') as fw:
 		line = line.strip()
 		if line:
 			line = line.replace("。  ","。\n")
-			#line = line.rstrip()
 			fw.write(line+"\n")
 fw.close()
